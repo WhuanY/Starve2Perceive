@@ -1,0 +1,3 @@
+ray_trainer_v0.py.bak: 原始的fixretina。
+ray_trainer_v1.py.bak: 原始的fixretina, 但是支持curriculum learning.
+ray_trainer_v2.py: 原始的fixretina, 但是支持curriculum learning, 支持dapo_dynamic_sampling.

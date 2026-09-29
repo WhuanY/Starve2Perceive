@@ -1,0 +1,5 @@
+prime.py: runtime Script
+prime_v0: the reward manager that supports multithread lasj, adaptive no group zoom-in reward.
+prime_v1: the reward manager that supports multithread lasj, adaptive group zoom-in reward.
+prime_v2: the reward manager that supports multithread lasj. Only 0.8 * acc_reward + 0.2 fmt_reward is applies. 
+    We use curriculum to enforce zoom-in.

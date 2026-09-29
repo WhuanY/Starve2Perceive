@@ -1,0 +1,5 @@
+fixretina.py: Runtime Code Script
+fixretina_v0.py: format judge logic implementation 
+fixretina_v1.py:  format judge logic implementation 1
+fixreitna_v2.py:  change the calculate score interface for returning more trajecotry info
+    [prime_v1.py] depend on [fixreitna_v2.py]
